@@ -7,6 +7,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  pdf: ^3.10.4
+  printing: ^5.11.1
   cupertino_icons: ^1.0.8
   supabase_flutter: ^2.9.1
 
